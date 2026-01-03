@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Environment
+.env
+
+# DB / logs
+*.db
+logs/
+automation/logs/
+
+# VS Code
+.vscode/
